@@ -1,0 +1,16 @@
+{
+  "name": "downloadsorganiser",
+  "version": "1.0.0",
+  "description": "this is meant to sort entire dowloads folder by observing the long unused files which are over certain size at times.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "downloads",
+    "sorting"
+  ],
+  "author": "saurabh shandilya",
+  "license": "MIT"
+}
